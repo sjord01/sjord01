@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Sam 👋
+This section is under construction...  
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/sjordonez/github-readme-stats)
 
 <!--
 **sjord01/sjord01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
